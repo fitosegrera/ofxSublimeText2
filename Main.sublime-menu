@@ -1,0 +1,17 @@
+[
+{
+	"id" : "openframeworks",
+	"caption": "openframeworks",
+	"children":
+	[
+	{
+		"caption" : "Compile",
+		"command" : "compile"
+	},
+	{
+		"caption" : "Run",
+		"command" : "runapp"
+	}
+	]
+}
+]
