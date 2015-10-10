@@ -9,6 +9,7 @@ Sublime Text 2 Pluging for compiling and runing openframeworks applications. Tes
 2. Clone the repository:
     git clone https://github.com/fitosegrera/ofxSublimeText2.git
 
+3. Rename the downloaded folder from ofxSublimeText2 to openframeworks
 
 ###Usage
 
